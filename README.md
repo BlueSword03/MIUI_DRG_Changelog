@@ -1,2 +1,30 @@
-# MIUIDRGChangelog.github.io
-MIUI_for_DRG_Changelog
+# MIUI_for_DRG_Changelog
+
+***
+
+**20210201更新**
+
+修复线刷包Vendor.img损坏
+
+**20210127更新**
+
+正式发布
+
+***
+
+20210126更新
+
+将system由21.1.20更新到21.1.25
+
+20210125更新
+
+修复所有bug
+
+20210124更新
+
+修复除相机外所有bug
+
+20210123更新
+
+正式开始
+
