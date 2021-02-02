@@ -1,7 +1,3 @@
-# MIUI_for_DRG_Changelog
-
-***
-
 **20210202更新**
 
 将system由21.1.25更新到21.1.27
